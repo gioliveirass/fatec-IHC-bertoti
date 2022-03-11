@@ -1,0 +1,1 @@
+Exemplificando as heurísticas
