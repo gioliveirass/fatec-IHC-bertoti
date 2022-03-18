@@ -20,8 +20,6 @@ Ao longo da atividade, serão apresentados muitos contra-exemplos da heurística
 
 O site da Prefeitura de Olinda citado anteriormente também serve de contra-exemplo para a situação apresentada no [slide 33](https://docs.google.com/presentation/d/1KC2SV950zGXTpaDNPUJeNcojq6uh3JMOC8hXaRz7h70/edit#slide=id.g117ff5349cb_0_20) passado pelo professor Giuliano durante a aula. Nesse slide há uma explicação sobre a importância da visão periférica. O motivo pelo qual o site da Prefeitura de Olinda serve de contra-exemplo é porque existem imagens na lateral do site que se mexem sozinhas, e isso atrapalha o usuário a focar no assunto principal.
 
-O site da [Prefeitura de Itapuã](https://www.ipua.sp.gov.br/) também possuí um design muito cheio, como podemos ver a seguir:
-
 ## <a id="heuristica03"> Controle e liberdade do usuário</a>
 
 A terceira heuristica de Nielsen propõem que sempre deve haver uma maneira claraw e simples de sair da interação atual. Veja a seguir alguns exemplos e contra-exemplos:
@@ -30,14 +28,14 @@ A terceira heuristica de Nielsen propõem que sempre deve haver uma maneira clar
 
 Exemplo positivos dessa heurística podem ser facilmente encontrados em sites e aplicativos de compra e venda, como a Amazon ou a Shopee, uma vez que sempre existe a opção de cancelar a compra ou remover um produto do carrinho. Veja a seguir uma imagem que comprova o exemplo:
 
-![Opção de não realizar a compra na shopee](images_example/h3_shopee.JPG)
+![Opção de não realizar a compra na shopee](images_example/h3_shopee.jpg)
 
 A imagem acima apresenta a opção de fechar o pop-up de "Comprar agora", da shopee. Também é possível realizar a retirada do produto do carrinho:
 
-![Opção de remover produto do carrinho na shopee](images_example/h3_shopee_2.JPG)
+![Opção de remover produto do carrinho na shopee](images_example/h3_shopee_2.jpg)
 
 ### Contra-exemplos
 
 Um exemplo negativo para essa heurística pode ser encontrado no aplicativo TikTok. Há um pop-up na tela que fica sobre o conteúdo, e o botão para removê-lo é pequeno demais, o que o torna dificil de fechar. Isso vai contra a heurística 03 de Nielsen, que defende que deve haver uma maneira fácil para que o usuário saia de uma situação. Veja a seguir uma imagem referente ao exemplo:
 
-![Exemplo negativo no TikTok](images_example/h3_tiktok.JPG)
+<img src = "images_example/h3_tiktok.jpg" alt = "Exemplo negativo no TikTok" width = 400/>
